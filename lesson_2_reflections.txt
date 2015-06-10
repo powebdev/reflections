@@ -7,3 +7,23 @@ It serves as an intermediate step before making a final
 commit on the files. I think it helps to organize the 
 committing steps better.
 
+By putting only the files in the same group if they make 
+sense, and do the commit in batches so each commit makes 
+logical sense.
+
+Branches are useful when you want to experiment or test 
+new features on your program and doesn't want the working 
+version of the program to be affected. By creating branches 
+any changes made too the code will not alter the original 
+version of the code.
+
+It shows the branches in a more physically relate-able way.
+
+By merging two branches together, the two diverging group of 
+commits are joined together in one single commit.
+
+Automatic merging can make the job of merging two commits 
+a lot easier and faster. But it can not resolve conflicts 
+automatically. Manually merging requires more time, but 
+with human intervention we can do our best to make sure 
+merge go as intended.

@@ -34,9 +34,3 @@ way for me to revert the code back to working condition
 and track down how the error was introduced to the code.
 
 I want to use Git for all my future programming activities.
-
-When Git init was first called, it seems that only a place 
-holder repostory was created. I need to tell Git which 
-files to track for the repository and whan the commit 
-message should be each time I want to commit the fiels.
-
