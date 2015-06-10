@@ -1,0 +1,42 @@
+By looking at two pieces of code side by side,
+it is easier to spot if there is anything different
+between the two.
+
+By having a record of all the changes that took place 
+in my code, it is easier to referencing back to an older, 
+working version of my code and compare that with the 
+current code to spot where an error might be.
+
+Manually commit has the benefit of commit sizes that make 
+more sense and easier to use. The downside is that 
+the programmer has to remember to do this otherwise there 
+would be no commits saved.
+Automatically commit has the benefit that the programmer 
+doesn't have to worry about forgetting to commit. But 
+the commit size might make less sense to the programmer 
+later on when errors appear and the programmer attempt to 
+use the differnces between versions to find the source of 
+the error.
+
+Maybe because Git is design for coding purpose, and most 
+of the time multiple files are involved in a single 
+project. Whereas Google Docs really only focus on one 
+single file at a time, and the files usually work 
+independently.
+
+I can use git log to pull up a list of commits that I have 
+made to my files. And use the ids associated with each 
+commit to identify what was changed between versions.
+
+I would feel much safer to change my code if I know in 
+case something goes wrong with my change, there is reliable 
+way for me to revert the code back to working condition 
+and track down how the error was introduced to the code.
+
+I want to use Git for all my future programming activities.
+
+When Git init was first called, it seems that only a place 
+holder repostory was created. I need to tell Git which 
+files to track for the repository and whan the commit 
+message should be each time I want to commit the fiels.
+
