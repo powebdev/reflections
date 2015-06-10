@@ -1,0 +1,9 @@
+When Git init was first called, it seems that only a place 
+holder repository was created. I need to tell Git which 
+files to track for the repository and when the commit 
+message should be each time I want to commit the files.
+
+It serves as an intermediate step before making a final 
+commit on the files. I think it helps to organize the 
+committing steps better.
+
